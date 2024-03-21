@@ -7,10 +7,9 @@ const answer = await inquirer.prompt([
         message: "Select one of the operator to perform operation",
         type: "list",
         name: "operator",
-        choices: ["Addition", "Substraction", "Multiplication", "Division"],
+        choices: ["Addition", "Subtraction", "Multiplication", "Division"],
     },
 ]);
-// conditional statement
 if (answer.operator == "Addition") {
     console.log(answer.firstNumber + answer.secondNumber);
 }
