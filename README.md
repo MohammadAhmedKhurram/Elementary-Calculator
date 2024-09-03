@@ -1,2 +1,10 @@
-# Elementary-Calculator
-"Elementary Calculator" is a simple and efficient tool for basic arithmetic operations like addition, subtraction, multiplication, and division. Its user-friendly interface makes it perfect for everyday math tasks, providing accurate results quickly and easily.
+CLI Calculator
+
+A simple TypeScript-based command-line calculator using Node.js and Inquirer. Input two numbers, select an operation (addition, subtraction, multiplication, division), and get the result.
+
+About
+
+This project was developed as an assignment for the first quarter of the Governor Sindh IT Initiative Program. It will be showcased on my GitHub and npm profiles.
+
+
+
