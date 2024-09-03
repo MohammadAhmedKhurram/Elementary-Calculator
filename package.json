@@ -1,6 +1,6 @@
 {
   "name": "elementary_calculator",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A simple TypeScript-based command-line calculator using Node.js and Inquirer. Input two numbers, select an operation (addition, subtraction, multiplication, division), and get the result.",
   "main": "index.js",
   "type": "module",
