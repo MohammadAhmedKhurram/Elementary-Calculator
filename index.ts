@@ -8,11 +8,13 @@ const answer = await inquirer.prompt([
     type: "number",
     name: "firstNumber" 
   },
+
   {
     message: "Enter second number",
     type: "number",
     name: "secondNumber" 
   },
+  
   {
     message: "Select one of the operator to perform operation",
     type: "list",
